@@ -1,3 +1,4 @@
+! Title: Aternos debloat
 aternos.org##.fa-ban.fas
 aternos.org##.btn-help > .btn-main.btn
 aternos.org##.server-b-tutorials
