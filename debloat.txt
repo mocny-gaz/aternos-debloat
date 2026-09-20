@@ -1,0 +1,13 @@
+aternos.org##.fa-ban.fas
+aternos.org##.btn-help > .btn-main.btn
+aternos.org##.server-b-tutorials
+aternos.org##.page-server.page-content > .help-center-articles
+aternos.org##.content > .help-center-articles
+aternos.org###xtqcJCeZwbOP > div > div > div > span
+aternos.org##.btn-red.btn
+aternos.org##footer
+aternos.org##.active.promo-slide
+aternos.org##.get-more.boost-cta-box
+aternos.org##.btn-notext.btn-light.btn-small.btn
+aternos.org##.headline-container > [href="https://support.aternos.org/hc/articles/360044837012"] > .fa-circle-question.fa-solid
+aternos.org##.promo-carousel-wrapper
