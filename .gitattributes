@@ -1,4 +1,1 @@
-# Adblock filter lists
-*.txt linguist-language=Adblock
-*.adblock linguist-language=Adblock
-*.list linguist-language=Adblock
+*.txt linguist-language=Adblock-Filter-List
