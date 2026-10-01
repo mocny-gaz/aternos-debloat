@@ -5,7 +5,6 @@ aternos.org##.server-b-tutorials
 aternos.org##.page-server.page-content > .help-center-articles
 aternos.org##.content > .help-center-articles
 aternos.org###xtqcJCeZwbOP > div > div > div > span
-# aternos.org##.btn-red.btn
 aternos.org##footer
 aternos.org##.active.promo-slide
 aternos.org##.get-more.boost-cta-box
