@@ -11,3 +11,7 @@ aternos.org##.get-more.boost-cta-box
 aternos.org##.btn-notext.btn-light.btn-small.btn
 aternos.org##.headline-container > [href="https://support.aternos.org/hc/articles/360044837012"] > .fa-circle-question.fa-solid
 aternos.org##.promo-carousel-wrapper
+aternos.org##.top.leaderboard.display
+aternos.org##.bottom.leaderboard.display
+aternos.org##.instream
+aternos.org##svg
