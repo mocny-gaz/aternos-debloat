@@ -15,3 +15,4 @@ aternos.org##.top.leaderboard.display
 aternos.org##.bottom.leaderboard.display
 aternos.org##.instream
 aternos.org##svg
+aternos.org##.inline.rectangle.display
