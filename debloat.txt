@@ -16,3 +16,4 @@ aternos.org##svg
 aternos.org##.inline.rectangle.display
 aternos.org##.top.display
 aternos.org##.bottom.display
+aternos.org##.sidebar
